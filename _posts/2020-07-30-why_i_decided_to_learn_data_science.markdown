@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why I decided to learn Data Science"
-date:       2020-07-31 01:42:29 +0000
+date:       2020-07-30 21:42:30 -0400
 permalink:  why_i_decided_to_learn_data_science
 ---
 
@@ -42,7 +42,7 @@ Do I want to work full time for 40 years and finally enjoy the fruits of my labo
 
 How can I structure my life to be more of what I want and less of what I don't want? 
 
-Sometimes this can be intimidating and scary because sometimes, we don't have options, or at least, we don't see any other options so we don't ask the questions. But if we don't ask the questions and step out into what is unknown, we will never know the answers. 
+Sometimes this can be intimidating and scary because we don't have options, or at least, we don't see any other options so we don't ask the questions. But if we don't ask the questions and step out into what is unknown, we will never know the answers. 
 
 I knew that it was highly possible that I would run into the same conundrums at new jobs and with other superiors. What I eventually realized though, was that if I focused on what my goals were, I could overlook those. I could make my goals such a priority to me that a burned out coworker or apathetic boss wouldn't phase me. I would build a strategy to eventually escape the rules that were surrounding me rather than placing the professional team goals as my ultimate goals.
 
