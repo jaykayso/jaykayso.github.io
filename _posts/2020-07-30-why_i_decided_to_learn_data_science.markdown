@@ -8,15 +8,14 @@ permalink:  why_i_decided_to_learn_data_science
 
 Hey you! My name is Jaklyn, but you can call me Jax.
 
-I'm 26 years old and live in Houston, Texas. 
 
-In 2016, I graduated from Texas A&M University with a bachelor's in Anthropology and a minor in Business Administration. Like many people, I didn't really know what I wanted to do, but I wasn't too worried, because I had a willingness to work hard for what I wanted. 
+In 2016, I graduated from Texas A&M University with a bachelor's in Anthropology and a minor in Business Administration. I didn't know what I wanted to do, but I wasn't worried. I was willing to work hard for what I wanted. 
 
 As I set out to make my name in the world, I found a few things to be true: 
 
-* I was more motivated than my coworkers to create a compelling workplace and to perform; I've always had a real zeal for life and I didn't understand people that were content with settling for less than they were capable of. 
+* I was more motivated than my coworkers to create a compelling workplace and to perform. I didn't understand people that were content with settling for less than they were capable of. 
  
-* I was discouraged by working in spaces where there was a lack of innovation and where outdated systems prevailed simply because it was protocol. Additionally, I considered this detrimental to the employees at the company because part of the value gained in working in a company is industry experience that you hold on to regardless of where you work. Having systems and technology that was outdated made the employees' experience less valuable compared to having experience working with modern, innovative, solutions. 
+* I was discouraged by working in spaces where there was a lack of innovation and where outdated systems prevailed simply because it was protocol. I considered this type of environment detrimental to employees because part of the value gained in working for a company is industry experience that you hold on to regardless of where you work. Having systems and technology that was outdated made the employees' experience less valuable compared to having experience working with modern, innovative, solutions. 
 
 *  I was frustrated to work in places where I was given lots of responsibility but was not adequately compensated for it compared to other positions at other companies.
 
